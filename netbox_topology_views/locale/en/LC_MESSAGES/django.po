@@ -1,0 +1,453 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-15 14:39+0800\n"
+"PO-Revision-Date: 2025-10-15 14:39+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#: .\netbox_topology_views\forms.py:40
+msgid "Options"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:42 .\netbox_topology_views\forms.py:63
+msgid "Device"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:43 .\netbox_topology_views\forms.py:102
+msgid "Location"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:44
+msgid "Operation"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:45
+msgid "Hardware"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:46
+msgid "Tenant"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:47
+msgid "Contacts"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:49
+msgid "Components"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:52
+msgid "Miscellaneous"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:58
+msgid "Coordinate group"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:78
+msgid "Region"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:83
+msgid "Site Group"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:92
+msgid "Site"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:113
+msgid "Rack"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:118
+msgid "Device Status"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:123
+msgid "Role"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:126
+msgid "Airflow"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:131
+msgid "Serial"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:135
+msgid "Asset tag"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:140
+msgid "MAC address"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:145
+msgid "Manufacturer"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:153
+msgid "Model"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:159
+msgid "Platform"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:163
+msgid "Has console ports"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:170
+msgid "Has console server ports"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:177
+msgid "Has power ports"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:184
+msgid "Has power outlets"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:191
+msgid "Has interfaces"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:198
+msgid "Has pass-through ports"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:206
+msgid "Config template"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:210
+msgid "Has a primary IP"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:217
+msgid "Has an OOB IP"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:224
+msgid "Virtual chassis member"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:234 .\netbox_topology_views\forms.py:545
+msgid "Ignore Termination Types"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:239 .\netbox_topology_views\forms.py:567
+msgid "Save Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:248 .\netbox_topology_views\forms.py:576
+msgid "Show Unconnected"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:259 .\netbox_topology_views\forms.py:584
+msgid "Show Cables"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:266 .\netbox_topology_views\forms.py:592
+msgid "Show Logical Connections"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:272
+msgid "Show redundant Cable and Logical Connection"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:278 .\netbox_topology_views\forms.py:609
+msgid "Show Neighbors"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:284 .\netbox_topology_views\forms.py:617
+msgid "Show Circuit Terminations"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:290 .\netbox_topology_views\forms.py:624
+msgid "Show Power Feeds"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:296 .\netbox_topology_views\forms.py:632
+msgid "Show Wireless Links"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:302 .\netbox_topology_views\forms.py:639
+msgid "Group Sites"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:308 .\netbox_topology_views\forms.py:646
+msgid "Group Locations"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:314 .\netbox_topology_views\forms.py:653
+msgid "Group Racks"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:320 .\netbox_topology_views\forms.py:660
+msgid "Group Virtual Chassis"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:326
+msgid "Straight Cables"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:332 .\netbox_topology_views\forms.py:681
+msgid "Grid Size"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:337
+msgid ""
+"Show grid and snap dragged icons to grid. Set to 0 to disable grid and "
+"snapping."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:340 .\netbox_topology_views\forms.py:691
+msgid "Node Label Items"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:347
+msgid "Group Details"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:361
+msgid "Circuit Coordinate"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:370
+msgid "Power Panel"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:379
+msgid "PowerFeed Coordinate"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:388
+msgid "Coordinate"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:419
+#: .\netbox_topology_views\navigation.py:94
+msgid "Circuit Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:444
+msgid "PowerPanel Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:469
+msgid "PowerFeed Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:494
+msgid "Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:548
+msgid ""
+"Choose Termination Types that you want to be ignored. If any ignored "
+"Termination Type is part of a connection, the cable is not displayed."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:553
+msgid "Preselected Device Role"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:556
+msgid ""
+"Select Device Roles that you want to have preselected in the filter tab."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:560
+msgid "Preselected Tags"
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:563
+msgid "Select Tags that you want to have preselected in the filter tab."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:570
+msgid ""
+"Coordinates of nodes will be saved if dragged to a different position. This "
+"option depends on parameters set in the config file. It has no effect if "
+"'allow_coordinates_saving' has not been set or  'always_save_coordinates' "
+"has been set."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:579
+msgid ""
+"Draws devices that have no connections or for which no connection is "
+"displayed. This option depends on other parameters like 'Show Cables' and "
+"'Show Logical Connections'."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:587
+msgid ""
+"Displays connections between interfaces that are connected with one or more "
+"cables. These connections are displayed as solid lines in the color of the "
+"cable."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:595
+msgid ""
+"Displays connections between devices that are not directly connected (e.g. "
+"via patch panels). These connections are displayed as yellow dotted lines."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:603
+msgid ""
+"Shows a logical connection (in addition to a cable), even if a cable is "
+"directly connected. Leaving this option disabled prevents that redundant "
+"display. This option only has an effect if 'Show Logical Connections' is "
+"activated."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:612
+msgid ""
+"Adds neighbors to the filter result set automatically. Link peers will be "
+"added if 'Show Cables' is ticked, far-end terminations will be added if "
+"'Show Logical Connections' is ticked."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:620
+msgid ""
+"Displays connections between circuit terminations. These connections are "
+"displayed as blue dashed lines."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:627
+msgid ""
+"Displays connections between power outlets and power ports. These "
+"connections are displayed as solid lines in the color of the cable. This "
+"option depends on 'Show Cables'."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:635
+msgid ""
+"Displays wireless connections. These connections are displayed as blue "
+"dotted lines."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:642
+msgid "Draws a rectangle around Devices that belong to the same site."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:649
+msgid "Draws a rectangle around Devices that belong to the same location."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:656
+msgid "Draws a rectangle around Devices that belong to the same rack."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:663
+msgid ""
+"Draws a rectangle around Devices that belong to the same virtual chassis."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:670
+msgid ""
+"Enable this option if you want to draw the topology on the initial load "
+"(when you go to the topology plugin page)."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:677
+msgid ""
+"Enable this option if you want to draw cables as straight lines instead of "
+"curves."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:686
+msgid ""
+"Default grid value. Set to 0 to disable grid. Integers between 0 and 1000 "
+"are allowed. Snap to grid will be automatically enabled for values > 0."
+msgstr ""
+
+#: .\netbox_topology_views\forms.py:694
+msgid "Choose Label Items that you want to be displayed."
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:7
+#: .\netbox_topology_views\navigation.py:22
+#: .\netbox_topology_views\navigation.py:37
+#: .\netbox_topology_views\navigation.py:52
+#: .\netbox_topology_views\navigation.py:67
+msgid "Add"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:13
+#: .\netbox_topology_views\navigation.py:28
+#: .\netbox_topology_views\navigation.py:43
+#: .\netbox_topology_views\navigation.py:58
+#: .\netbox_topology_views\navigation.py:73
+msgid "Import"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:80
+msgid "Topology Views"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:83
+msgid "TOPOLOGY"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:85
+#: .\netbox_topology_views\templates\netbox_topology_views\location_button.html:5
+msgid "Topology"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:88
+msgid "COORDINATES"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:90
+msgid "Coordinate Groups"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:91
+msgid "Device Coordinates"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:92
+msgid "Power Feed Coords"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:93
+msgid "Power Panel Coords"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:97
+msgid "PREFERENCES"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:99
+msgid "Images"
+msgstr ""
+
+#: .\netbox_topology_views\navigation.py:100
+msgid "Individual Options"
+msgstr ""
+
+#: .\netbox_topology_views\templates\netbox_topology_views\index.html:23
+#: .\netbox_topology_views\templates\netbox_topology_views\index.html:27
+msgid "Download"
+msgstr ""

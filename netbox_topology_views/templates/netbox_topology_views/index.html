@@ -5,6 +5,8 @@
 {% load perms %}
 {% load helpers %}
 
+{% load i18n %}
+
 {% block title %}Topology Views{% endblock %}
 
 {% block head %}
@@ -18,11 +20,11 @@
 			{% block extra_controls %}{% endblock %}
 			<a id="btnDownloadXml" class="btn btn-info" href="#">
 				<i class="mdi mdi-download"></i>
-				Download XML
+				{% trans "Download" %} XML
 			</a>
 			<a id="btnDownloadImage" class="btn btn-info" href="#">
 				<i class="mdi mdi-download"></i>
-				Download PNG
+				{% trans "Download" %} PNG
 			</a>
     	</div>
 	</div>
